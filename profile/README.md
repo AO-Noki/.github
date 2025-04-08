@@ -1,6 +1,6 @@
 # AO-Noki
 
-Welcome to the official **AO-Noki** organization! 🚀 Developed by [Brendown Ferreira "o Br3n0k"](https://github.com/Br3n0k) 🐙, we are dedicated to developing innovative tools and data-driven solutions for the *Albion Online* community. Our focus is on advanced analytics and application development that enhance the overall gaming experience.
+Welcome to the official **AO-Noki** organization! 🚀 Developed by [Brendown Ferreira | N0k](https://github.com/Br3n0k) 🐙, we are dedicated to developing innovative tools and data-driven solutions for the *Albion Online* community. Our focus is on advanced analytics and application development that enhance the overall gaming experience.
 
 ## Our Mission
 
